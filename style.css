@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+    
+}
+#container {
+    background-color: white;
+    width: 108%;
+    margin: 0 auto;
+
+}
+
+body{
+    width: 100%;
+    background-color:#f1f0e8;
+}
+
+#header_1{
+    position: relative;
+    display: inline-block;
+    background-color: #128C7E;
+    padding: 55px;
+    color:  black;
+    font-family: 'Roboto', sans-serif;
+
+   
+width: 100%;
+
+    line-height: 8em;
+ 
+}
+
+
+
+h1
+{
+    position: relative;
+    display: inline-block;
+   
+    
+    
+}
+
+
+
+#insight_s{
+
+    margin-top: 22px;
+}
+.insight_txt{
+    transition: none;
+    border: none;
+}
+
+
+#insight_logo{
+
+    margin-left: 25px;
+    margin-bottom: 11px;
+    width: 180px;
+    height: 90px;
+}
+article{
+    width: 100%;
+    position: relative;
+    display: inline-block;
+    
+
+}
+
+
+.box{
+    
+    position: absolute;
+    top: 39%;
+    left: 3%;
+    width: 500px;
+    display: inline;
+}
+
+input
+{
+    position: relative;
+    display: inline-block;
+    font-size: 20px;
+    box-sizing: border-box;
+    transition: none;
+    width: 100%;
+   
+}
+
+input[type="text"]
+{
+
+    background: #fff;
+    width: 360px;
+    height: 50px;
+    border-color: #128C7E;
+    padding: 0 25px;
+    border-radius: 25px 0 0 25px;
+    outline: none;
+    
+
+}
+input[type="submit"]
+{
+
+    position: relative;
+    border-radius: 0 25px 25px 0;
+    width: 90px;
+    height: 50px;
+    border: none;
+    outline: none;
+}
+.logo_search{
+    color: black;
+    margin-left: 18px;
+    margin-top: 7px;
+    font-family: 'Roboto', sans-serif;
+    font-size: 35px;
+
+    
+}
+.lastseen{
+    border: none;
+    
+}
+.aaa{
+    
+    border:2px solid white;
+    
+    padding: 11px;
+    
+}
+p{
+    position: relative;
+    display: inline-block;
+}
+
+.aa{
+ margin-left: 3px;
+ 
+
+}
+
+.a{
+
+    float: right;
+    margin-right: 3px;
+    margin-top: 20px;
+}
+.img_tag{
+    height: 70px;
+    width: 75px;
+    margin-left: 2px;
+    cursor: pointer;
+}
+#sizerr{
+
+    width: 400px;
+    margin-left: 36px;
+    
+}
